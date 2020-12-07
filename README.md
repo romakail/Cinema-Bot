@@ -7,5 +7,5 @@ This bot supports commands:
 
 To launch the bot simply run
 ```bash
-BOT_TOKEN=<bot_token> cinema_bot.py
+BOT_TOKEN=<bot_token> python3 cinema_bot.py
 ```
